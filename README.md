@@ -1,4 +1,4 @@
-![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
+![MAXX LEECH V2](https://telegra.ph/file/af8f059612474a17e4e2.png)
 
 ## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 
