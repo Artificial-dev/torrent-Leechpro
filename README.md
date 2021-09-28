@@ -1,12 +1,12 @@
-![MAXX LEECH V2](https://telegra.ph/file/af8f059612474a17e4e2.png)
+Maxx Leech Version 2
 
-## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
+## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive) 
 
 ![Maxx](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
 
 ## **Don't Kill Heroku please ☹️**
 
-[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
+[![MAXX LEECH](Don't Kill Heroku please)](https://telegram.dog/MaxxBots)
 
 
 
@@ -29,7 +29,7 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/MaxxRiderz) 👇
+[![Maxx]()](https://t.me/MaxxRiderz) 👇
 
 ##### Mandatory Variables
 
